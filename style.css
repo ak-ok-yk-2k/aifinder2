@@ -1,0 +1,12 @@
+.heading{
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px white;
+    border-radius: 10px;
+    margin-top: 120px;
+    border: 3px black;
+}
